@@ -1,0 +1,25 @@
+body
+{
+	background-color:#F7F7F9 !important;
+}
+.container
+{
+	background-color: #FFFFFF !important;
+	padding:15px !important;
+}
+.jumbotron
+{
+	padding:10px !important;
+}
+.navbar
+{
+	margin-bottom: 0px !important;
+}
+.no-padding
+{
+	padding:0px !important;
+}
+.bold
+{
+	font-weight: bold !important;
+}
